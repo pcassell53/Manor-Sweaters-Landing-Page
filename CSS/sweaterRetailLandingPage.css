@@ -1,0 +1,154 @@
+html, body {
+	font-family: 'Fjalla One', sans-serif;
+	height: 100%;
+}
+
+hr {
+	background-color: black;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+hr {
+	background: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.5);
+}
+
+.sectionTwoBorderBox {
+	color: #F1F7ED;
+	background: rgba(0,0,0,0.2);
+	padding: 20px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
+.footerBottomTitles {
+	text-transform: uppercase;
+	font-size: 24px;
+	text-align: center; 
+}
+
+.footerBottomSubTitles {
+	text-align: center;
+	color: black;
+	transition: 0.2s;
+}
+
+.footerBottomSubTitles:hover {
+	color: white;
+}
+
+.dateAndTimes {
+	text-align: center;
+	color: black;
+}
+
+.socialMediaIcons {
+	color: black;
+	font-size: 32px;
+	transition: 0.2s;
+}
+
+.socialMediaIcons:hover {
+	color: white;
+}
+
+#sectionOne {
+	background-image: url("../Images/womanWearingBlackSweater.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 100px;
+}
+
+#Title {
+	margin-top: 50px;
+}
+
+#titleBlock {
+    background: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.5);
+    padding:4px 10px;
+    border-radius:3px;
+    transform: skew(-10deg);
+    -o-transform: skew(-10deg);
+    -moz-transform: skew(-10deg);
+    -webkit-transform: skew(-10deg);
+    margin: 50px;
+}
+
+#logoBlock {
+    background: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.5);
+    padding:4px 10px;
+    border-radius:3px;
+    transform: skew(-10deg);
+    -o-transform: skew(-10deg);
+    -moz-transform: skew(-10deg);
+    -webkit-transform: skew(-10deg);
+}
+
+#sectionTwo {
+	background-color: #FFBE0B;
+	padding: 50px;
+	text-align: center;
+}
+
+#sectionFour {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color: #4392F1;
+}
+
+#sweatersOnRack {
+	background: url("../Images/sweatersOnRack.jpg"), linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.3));
+    background-blend-mode: overlay;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 200px;
+	text-align: center;
+}
+
+#manInTurtleNeck {
+	background: url("../Images/manInTurtleNeck.jpg"), linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.3));
+    background-blend-mode: overlay;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 200px;
+	text-align: center;
+}
+
+#cameraSweaters {
+	background: url("../Images/cameraSweaters.jpg"), linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.3));
+    background-blend-mode: overlay;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-bottom: 200px;
+	text-align: center;
+}
+
+#seasonal {
+	margin-top: 250px;
+	color: #F1F7ED;
+	background: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+
+#anyStyle {
+	margin-top: 250px;
+	color: #F1F7ED; 
+	background: rgba(0,0,0,0.2);
+	padding: 20px;
+}
+
+#cameraReady {
+	margin-top: 250px; 
+	color: #F1F7ED;
+	background: rgba(0,0,0,0.2);
+	padding: 20px;
+}
